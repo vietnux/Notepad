@@ -1,6 +1,6 @@
-![notepad readme](https://user-images.githubusercontent.com/36028424/39695245-83b15cfc-521c-11e8-935c-c4a9cdcfbe90.png)
+![notepad readme](https://github.com/vietnux/Notepad/blob/master/GUI/cover.jpg)
 
-A simple, bare-bones, no-frills note taking app, currently being [rewritten from the ground up](https://github.com/farmerbb/Notepad/blob/master/README-NEW.md).
+A simple, bare-bones, no-frills note taking app, currently being [rewritten from the ground up](https://github.com/vietnux/Notepad/blob/master/README-NEW.md).
 
 ## Features
 
