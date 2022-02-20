@@ -36,7 +36,6 @@
     <string name="cab_note_selected">つを選択中</string>
     <string name="cab_notes_selected">つを選択中</string>
     <string name="changes_discarded">放棄された変更</string>
-    <string name="dialog_about_message">メモ帳: シンプルなメモ帳アプリ\n\n&#169; %d Braden Farmer\nApp logo by Tobaloidee</string>
     <string name="dialog_about_title">このアプリについて</string>
     <string name="dialog_are_you_sure">良いですか?</string>
     <string name="dialog_delete_button_title">メモを削除</string>

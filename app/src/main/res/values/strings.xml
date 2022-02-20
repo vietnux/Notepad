@@ -17,6 +17,9 @@
 -->
 
 <resources>
+    <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
+    <!--        <string name="admob_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>-->
+    <string name="admob_id" translatable="false">ca-app-pub-1656614863517753~4505343335</string>
 
     <string name="action_cancel">Cancel</string>
     <string name="action_close">Close</string>
@@ -36,7 +39,7 @@
     <string name="cab_note_selected">note selected</string>
     <string name="cab_notes_selected">notes selected</string>
     <string name="changes_discarded">Changes discarded</string>
-    <string name="dialog_about_message">Notepad: a simple note-taking app\n\n&#169; %d Braden Farmer\nApp logo by Tobaloidee</string>
+    <string name="dialog_about_message" translatable="false">Notepad: a simple note-taking app\n\n&#169; %d Gtsstar .co\nhttp://thegioilaptrinh.net</string>
     <string name="dialog_about_title">About Notepad</string>
     <string name="dialog_are_you_sure">Are you sure?</string>
     <string name="dialog_delete_button_title">Delete note</string>
@@ -115,4 +118,5 @@
         <item>Timestamp + first line</item>
     </string-array>
 
+    <string name="tap_exit" translatable="false">Tap again to close the app</string>
 </resources>

@@ -25,11 +25,7 @@
 <string name="cab_notes_selected">Notlar seçildi</string>
 <string name="changes_discarded">Değişiklikler silindi</string>
 <string name="check_for_updates">Güncellemeleri kontrol et</string>
-<string name="dialog_about_message">"Not Defteri, basit bir not alma uygulamasıdır.
-
-© %d Braden Farmer
-App logo by Tobaloidee"</string>
-<string name="dialog_about_title">Hakkında</string>
+    <string name="dialog_about_title">Hakkında</string>
 <string name="dialog_are_you_sure">Silmek istediğinizden emin misiniz?</string>
 <string name="dialog_delete_button_title">Notu sil</string>
 <string name="dialog_delete_button_title_plural">Notları sil</string>

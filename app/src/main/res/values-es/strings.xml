@@ -36,7 +36,6 @@
     <string name="cab_note_selected">Nota seleccionada</string>
     <string name="cab_notes_selected">Notas seleccionadas</string>
     <string name="changes_discarded">Cambios descartados</string>
-    <string name="dialog_about_message">Notepad: una app simple de toma de notas\n\n&#169; %d Braden Farmer\nlogotipo de la aplicación por Tobaloidee</string>
     <string name="dialog_about_title">Sobre Notepad</string>
     <string name="dialog_are_you_sure">¿Estás seguro?</string>
     <string name="dialog_delete_button_title">Eliminar nota</string>

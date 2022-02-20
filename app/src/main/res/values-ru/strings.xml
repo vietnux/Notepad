@@ -21,12 +21,7 @@
 <string name="app_name">Заметки</string>
 <string name="app_name_debug">Заметки (Отладка)</string>
 <string name="changes_discarded">Изменения отменены</string>
-<string name="dialog_about_message">"Notepad: простое приложение для создания заметок
-
-© %d Braden Farmer
-App logo by Tobaloidee
-Russian translation by Vladimir Kosolapov"</string>
-<string name="dialog_about_title">О приложении</string>
+    <string name="dialog_about_title">О приложении</string>
 <string name="dialog_are_you_sure">Вы уверены?</string>
 <string name="dialog_delete_button_title">Удалить заметку</string>
 <string name="dialog_delete_button_title_plural">Удалить заметки</string>

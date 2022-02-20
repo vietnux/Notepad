@@ -34,7 +34,6 @@
     <string name="cab_note_selected">σημείωση επιλέχθηκε</string>
     <string name="cab_notes_selected">σημειώσεις επιλέχθηκαν</string>
     <string name="changes_discarded">Οι αλλαγές απορρίφθηκαν</string>
-    <string name="dialog_about_message">Σημειώσεις: μια απλή εφαρμογή σημειώσεων\n\n&#169; %d Braden Farmer\nΛογότυπο εφαρμογής από Tobaloidee</string>
     <string name="dialog_about_title">Σχετικά με το Σημειώσεις</string>
     <string name="dialog_are_you_sure">Σίγουρα;?</string>
     <string name="dialog_delete_button_title">Διαγραφή σημείωσης</string>

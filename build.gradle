@@ -28,6 +28,7 @@ dependencyUpdates {
 allprojects {
     repositories {
         mavenCentral()
+        google()
     }
 }
 

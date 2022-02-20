@@ -18,7 +18,6 @@
     <string name="cab_note_selected">" ملاحظةٌ محدّدة"</string>
     <string name="cab_notes_selected">ملاحظات محدّدة</string>
     <string name="changes_discarded">تم إتلاف التعديلات</string>
-    <string name="dialog_about_message">الدفتر: برنامجٌ بسيطٌ لتسجيل الملاحظات\n\n&#169; %d Braden Farmer\nصمّم الشعار: Tobaloidee\nنقله إلى العربيّة: وسيم الكردي</string>
     <string name="dialog_about_title">نبذة عن برنامج (الدّفتر)</string>
     <string name="dialog_are_you_sure">هل أنت متأكّد؟</string>
     <string name="dialog_delete_button_title">حذف الملحوظة</string>
