@@ -21,7 +21,7 @@
           package="com.tglt.notepad"
           android:installLocation="auto" >
 
-    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY"/>
+<!--    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY"/>-->
 
     <uses-feature
         android:name="android.hardware.touchscreen"
